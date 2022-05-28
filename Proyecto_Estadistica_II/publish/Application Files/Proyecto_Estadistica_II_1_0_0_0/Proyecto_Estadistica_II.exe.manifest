@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Proyecto_Estadistica_II.exe" version="1.0.0.0" publicKeyToken="6287113061da788b" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Proyecto_Estadistica_II" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Proyecto_Estadistica_II.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si quiere cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Proyecto_Estadistica_II.exe" size="22992">
+      <assemblyIdentity name="Proyecto_Estadistica_II" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>d1A2oYv1O2T8xXlaKjrdD36jF62jthC5+/ll9+d63YE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Proyecto_Estadistica_II.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LAPTOP-MARIO\mario" issuerKeyHash="c0d204cd420f83c6fff9fa39cfd9ee2583804136" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>1/tmQWt3B2w/IJmlPb5YhaBNBHB8Sxp7Pu577b/4Doo=</DigestValue></Reference></SignedInfo><SignatureValue>mh7uUfrQ2ZrUJAj2JdW7VjelmPJDs201pCF+POmVlNKMukFYRICbloSIRhYJSctHQboddjK3II6rFcBmYenp1sVleEnb0qNdFI6vptexKFZrj1Ty2ZG5bvEatcIzHdoewhdoildOjezpNqRtUHRTOnNfPJ8BBpcLIelcj5kBXCs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>woCI9lCLl7g/v0qCttDolPOEJZsfw6wH93NdSMzCRfpKooNj1LWbYtUVV4LH1VGhhLM+q51s+manNhwRMVsj8tmbR+ak3v//ljC8n53jh2oHsHU93WmnB/AjAerHoIoCPobZ3fGfbMa5sjyAcw7mGPvcGQm8MDJvtpQheaZrn+0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="8a0ef8bfed7bee3e7b1a4b7c70044da08558be3da599203f6c07776b4166fbd7" Description="" Url=""><as:assemblyIdentity name="Proyecto_Estadistica_II.exe" version="1.0.0.0" publicKeyToken="6287113061da788b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-MARIO\mario</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>pI7JvIs7qqL0eVbJhi6svKoAhTwO6oKvF9j0Oaa3nNI=</DigestValue></Reference></SignedInfo><SignatureValue>B73Nid4WKU4YtJKbZO+S2A44zY9aH1esG8YFx5URFN2Z5IOkyPYDpW8+TnM9xuC+wq8QeC45No5xbsCZpewWzoy5DCG9jWVp1E/ElwiJJqBoUMEjkl2TwvFjcU4YqEpIjWqs12gWzGHcmPvK4Xk4MX03Et6qKVzOwpt0oUMxCuI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>woCI9lCLl7g/v0qCttDolPOEJZsfw6wH93NdSMzCRfpKooNj1LWbYtUVV4LH1VGhhLM+q51s+manNhwRMVsj8tmbR+ak3v//ljC8n53jh2oHsHU93WmnB/AjAerHoIoCPobZ3fGfbMa5sjyAcw7mGPvcGQm8MDJvtpQheaZrn+0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQOkgoGOoQJINCaMWLUkgrSTANBgkqhkiG9w0BAQsFADAvMS0wKwYDVQQDHiQATABBAFAAVABPAFAALQBNAEEAUgBJAE8AXABtAGEAcgBpAG8wHhcNMjIwNTAzMjIzMTAyWhcNMjMwNTA0MDQzMTAyWjAvMS0wKwYDVQQDHiQATABBAFAAVABPAFAALQBNAEEAUgBJAE8AXABtAGEAcgBpAG8wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMKAiPZQi5e4P79KgrbQ6JTzhCWbH8OsB/dzXUjMwkX6SqKDY9S1m2LVFVeCx9VRoYSzPqudbPpmpzYcETFbI/LZm0fmpN7//5YwvJ+d44dqB7B1Pd1ppwfwIwHqx6CKAj6G2d3xn2zGubI8gHMO5hj73BkJvDAyb7aUIXmma5/tAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAsAePhvwcQ1NBnnALPA0YO43IatavvT6uRkv6oq3q6kE7rNvJJumPemEL7BzmaGvN3HXher979D3NrSU6mrELXAawhZQ7FRYWNXOj20kWfNKBhhB2xN3+UgkkXUGLHKp3iZBezva5FLqgDmSH/0tKub2FVq2quHQzfJeLgzqBqKQ=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

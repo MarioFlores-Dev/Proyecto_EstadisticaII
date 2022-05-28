@@ -1,0 +1,42 @@
+C:\Users\mario\source\repos\Proyecto_Estadistica_II\Proyecto_Estadistica_II\bin\Debug\Proyecto_Estadistica_II.exe.config
+C:\Users\mario\source\repos\Proyecto_Estadistica_II\Proyecto_Estadistica_II\bin\Debug\Proyecto_Estadistica_II.exe
+C:\Users\mario\source\repos\Proyecto_Estadistica_II\Proyecto_Estadistica_II\bin\Debug\Proyecto_Estadistica_II.pdb
+C:\Users\mario\source\repos\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.Properties.Resources.resources
+C:\Users\mario\source\repos\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.csproj.GenerateResource.cache
+C:\Users\mario\source\repos\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.exe
+C:\Users\mario\source\repos\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.pdb
+C:\Users\mario\source\repos\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.frm_menu.resources
+C:\Users\mario\source\repos\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.frm_distribuciones.resources
+C:\Users\mario\source\repos\Proyecto_Estadistica_II\Proyecto_Estadistica_II\bin\Debug\Proyecto_Estadistica_II.exe.manifest
+C:\Users\mario\source\repos\Proyecto_Estadistica_II\Proyecto_Estadistica_II\bin\Debug\Proyecto_Estadistica_II.application
+C:\Users\mario\source\repos\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.exe.manifest
+C:\Users\mario\source\repos\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.application
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.csproj.AssemblyReference.cache
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.frm_distribuciones.resources
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.frm_menu.resources
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.Properties.Resources.resources
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.csproj.GenerateResource.cache
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.csproj.CoreCompileInputs.cache
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.exe
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.pdb
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\bin\Debug\Proyecto_Estadistica_II.exe.config
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\bin\Debug\Proyecto_Estadistica_II.exe.manifest
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\bin\Debug\Proyecto_Estadistica_II.application
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\bin\Debug\Proyecto_Estadistica_II.exe
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\bin\Debug\Proyecto_Estadistica_II.pdb
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.exe.manifest
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.application
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.Tabla_4a.resources
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.TablaZ.resources
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.frm_DistribucionesMuestreo.resources
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.frm_estimaciones.resources
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.frm_Tablas.resources
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.TablaT.resources
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.frm_EstadisticaI.resources
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.Tablas.ProbabilidadBinomial1.resources
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.Tablas.ProbabilidadBinomial2.resources
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.Tablas.ProbabilidadBinomial3.resources
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.Tablas.Tabla_4b.resources
+D:\Estudio\UMG\5 Quinto Semestre 2022\Estadística II\Proyecto Final\Proyecto_Estadistica_II\Proyecto_Estadistica_II\obj\Debug\Proyecto_Estadistica_II.frm_PruebaHipotesis.resources
